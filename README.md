@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -34,3 +35,7 @@ A Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+=======
+# supplierdata
+A demo SAP Fiori application developed in Business Application Studio
+>>>>>>> 4ed555ae0346e38d5c51c2e8134e4e388b0147ee
